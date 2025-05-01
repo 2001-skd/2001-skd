@@ -11,10 +11,9 @@
 🚀 I’m a passionate <strong>Frontend Developer</strong> with <strong>1 year</strong> of experience in building responsive and visually appealing websites using:
 </p>
 
-<ul>
-  <li>🎨 <strong>HTML, CSS, Bootstrap</strong></li>
-  <li>🧩 <strong>Tailwind CSS, Material UI, Material Tailwind</strong></li>
-  <li>⚛️ <strong>JavaScript and React.js</strong></li>
+🎨 <strong>HTML, CSS, Bootstrap</strong>
+🧩 <strong>Tailwind CSS, Material UI, Material Tailwind</strong>
+⚛️ <strong>JavaScript and React.js</strong>
 </ul>
 
 <p>
@@ -26,10 +25,10 @@
 </p>
 
 <h3>🔍 I’m Actively Seeking Roles As:</h3>
-<ul>
-  <li>👨‍💻 Frontend Developer</li>
-  <li>⚛️ React Developer</li>
-  <li>🌐 Web Developer</li>
+
+👨‍💻 Frontend Developer
+⚛️ React Developer
+🌐 Web Developer
 </ul>
 
 <p>
