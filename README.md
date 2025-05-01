@@ -11,10 +11,9 @@
 🚀 I’m a passionate <strong>Frontend Developer</strong> with <strong>1 year</strong> of experience in building responsive and visually appealing websites using:
 </p>
 
-🎨 <strong>HTML, CSS, Bootstrap</strong>
-🧩 <strong>Tailwind CSS, Material UI, Material Tailwind</strong>
-⚛️ <strong>JavaScript and React.js</strong>
-</ul>
+<p>🎨 <strong>HTML, CSS, Bootstrap</strong></p>
+<p>🧩 <strong>Tailwind CSS, Material UI, Material Tailwind</strong></p>
+<p>⚛️ <strong>JavaScript and React.js</strong></p>
 
 <p>
 💡 I specialize in creating clean, accessible UI/UX designs and writing <strong>reusable, scalable React components</strong> that follow industry best practices.
@@ -26,10 +25,9 @@
 
 <h3>🔍 I’m Actively Seeking Roles As:</h3>
 
-👨‍💻 Frontend Developer
-⚛️ React Developer
-🌐 Web Developer
-</ul>
+<p>👨‍💻 Frontend Developer</p>
+<p>⚛️ React Developer</p>
+<p>🌐 Web Developer</p>
 
 <p>
 📬 If you're hiring or open to collaboration, feel free to reach out or connect with me on <a href="https://www.linkedin.com/in/santhakumar-reactdeveloper/" target="_blank">LinkedIn</a>!
