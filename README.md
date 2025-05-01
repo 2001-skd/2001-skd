@@ -8,34 +8,34 @@
 </p>
 
 <p>
-I’m a passionate <strong>Frontend Developer</strong> with 1 year of experience in building responsive and visually appealing websites using:
+🚀 I’m a passionate <strong>Frontend Developer</strong> with <strong>1 year</strong> of experience in building responsive and visually appealing websites using:
 </p>
 
 <ul>
-  <li>HTML, CSS, Bootstrap</li>
-  <li>Tailwind CSS, Material UI, Material Tailwind</li>
-  <li>JavaScript and React.js</li>
+  <li>🎨 <strong>HTML, CSS, Bootstrap</strong></li>
+  <li>🧩 <strong>Tailwind CSS, Material UI, Material Tailwind</strong></li>
+  <li>⚛️ <strong>JavaScript and React.js</strong></li>
 </ul>
 
 <p>
-I specialize in creating clean UI/UX experiences and writing reusable, scalable React components that follow best practices.
+💡 I specialize in creating clean, accessible UI/UX designs and writing <strong>reusable, scalable React components</strong> that follow industry best practices.
 </p>
 
 <p>
-I have a solid understanding of JavaScript fundamentals and hands-on experience building real-world web applications.
+📚 I also have a strong foundation in JavaScript fundamentals and hands-on experience building real-world web applications.
 </p>
 
 <h3>🔍 I’m Actively Seeking Roles As:</h3>
 <ul>
-  <li>Frontend Developer</li>
-  <li>React Developer</li>
-  <li>Web Developer</li>
+  <li>👨‍💻 Frontend Developer</li>
+  <li>⚛️ React Developer</li>
+  <li>🌐 Web Developer</li>
 </ul>
 
 <p>
-If you're hiring or want to collaborate, feel free to reach out or connect with me on <a href="https://www.linkedin.com/in/santhakumar-reactdeveloper/" target="_blank">LinkedIn</a>!
+📬 If you're hiring or open to collaboration, feel free to reach out or connect with me on <a href="https://www.linkedin.com/in/santhakumar-reactdeveloper/" target="_blank">LinkedIn</a>!
 </p>
 
 <p align="center">
-  🚀 Let’s build something great together!
+  ✨ Let’s build something great together! 🚀
 </p>
