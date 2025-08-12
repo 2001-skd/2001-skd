@@ -18,7 +18,8 @@
 
 <p>🎨 <strong>HTML, CSS, Bootstrap</strong></p>
 <p>🧩 <strong>Tailwind CSS, Material UI, Material Tailwind</strong></p>
-<p>⚛️ <strong>JavaScript and React.js</strong></p>
+<p>⚛️ <strong>JavaScript, React.js, Redux</strong></p>
+<p>🧪 <strong>React Testing Library</strong></p>
 
 <p>
 💡 I specialize in creating clean, accessible UI/UX designs and writing <strong>reusable, scalable React components</strong> that follow industry best practices.
@@ -28,26 +29,31 @@
 📚 I have a strong foundation in JavaScript fundamentals and hands-on experience building real-world web applications.
 </p>
 
-<h3>💼 Experience</h3>
+---
 
-<p><strong>Web Developer Trainee</strong> — <em>Cherri Technologies</em></p>
-<p>📍 Puducherry, India | 🗓️ May 2023 – Sep 2024 (1 yr 5 mos)</p>
-<p>
-🔧 I have created several websites using HTML, CSS, and JavaScript — focusing on SEO optimization and responsive design.  
-✅ Successfully implemented client requirements for both UI design and functionality.  
-📊 Managed client reports and handled live updates as needed.
-</p>
+## 💼 Professional Experience
 
-<h3>🔍 I’m Actively Seeking Roles As:</h3>
+**Web Developer Trainee** — *Cherri Technologies, Puducherry*  
+📍 *May 2023 – Sep 2024 (1 yr 5 mos)*  
 
-<p>👨‍💻 Frontend Developer</p>
-<p>⚛️ React Developer</p>
-<p>🌐 Web Developer</p>
+- Developed, maintained, and updated client websites with a focus on responsive design and functionality using HTML, CSS, JavaScript, and Bootstrap; implemented client feedback through content changes and feature enhancements, and integrated backend features such as contact form submissions using PHP and MySQL to support dynamic user interactions.  
+- Successfully delivered multiple projects on time, earning client appreciation and recognition.  
+- Awarded **Best Employee of the Month** for outstanding performance and commitment to project quality.  
 
-<p>
-📬 If you're hiring or want to collaborate, feel free to connect with me on <a href="https://www.linkedin.com/in/santhakumar-reactdeveloper/" target="_blank">LinkedIn</a>!
-</p>
+---
 
-<p align="center">
-✨ Let’s build something great together! 🚀
-</p>
+**Freelance Developer** — *Thara’s Takeaway (Food Delivery Platform)*  
+📍 *Dec 2024 – Present*  
+
+- Developed a responsive food delivery website (Thara’s Takeaway) using React (frontend) and Core PHP with MySQL (backend), tailored to client requirements, with features like product listings, add to cart, order placement, and dynamic data handling via React components and PHP APIs.  
+- Built the admin side using **TanStack Table** for efficient data display and performance optimization, ensuring responsiveness and scalability; followed modular coding practices with a strong focus on reusability and maintainability.  
+- **Live Link:** [http://tharastakeaway.com](http://tharastakeaway.com)  
+
+---
+
+## 🔍 I’m Actively Seeking Roles As:
+- 👨‍💻 Frontend Developer  
+- ⚛️ React Developer  
+- 🌐 Web Developer  
+
+📬 If you're hiring or want to collaborate, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/santhakumar-reactdeveloper/)!  
